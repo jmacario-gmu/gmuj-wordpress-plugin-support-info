@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name:       Mason WordPress: Support Info
+ * Plugin URI:        https://github.com/jmacario-gmu/gmuj-wordpress-plugin-support-info
  * Description:       Mason WordPress plugin which adds additional support information to the WordPress dashboard.
  * Version:           0.0.1
  */
