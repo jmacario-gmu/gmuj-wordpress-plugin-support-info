@@ -1,4 +1,4 @@
-Plugin name: Mason Support Info
+Plugin name: Mason Support Information
 
 Link to GitHub repository: [https://github.com/jmacario-gmu/gmuj-wordpress-plugin-support-info](https://github.com/jmacario-gmu/gmuj-wordpress-plugin-support-info)
 
