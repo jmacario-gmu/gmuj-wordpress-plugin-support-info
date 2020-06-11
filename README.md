@@ -15,3 +15,7 @@ This function adds the following 'meta' boxes to the WordPress admin dashboard:
 It also changes the admin footer text to provide support contact links.
 
 The content for these items is stored in HTML files in a 'content' subfolder of the plugin folder.
+
+Notes:
+
+This plugin is now deprecated as it's functionality was moved into the Mason WordPress theme.
